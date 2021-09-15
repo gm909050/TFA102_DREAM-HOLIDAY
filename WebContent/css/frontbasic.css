@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background:linear-gradient(#2B3078, #0AA6B7);
+    width: 100%;
+}

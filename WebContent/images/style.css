@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    margin-left: 25%;
+    font-size: 54px;
+    
+    text-align: center;
+}
+.menu{    
+    width: 25%;
+    height: 100vh;
+    font-size: 36px;
+    background-color: #ACA5A5;
+    font-display: top;
+}
+main{
+    font-size: larger;
+    text-align: center;   
+    float:left;
+
+}
+.user{
+    width: 10%;
+}    
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+.logo{
+    width: 30%;    
+}
